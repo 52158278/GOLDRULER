@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<RulerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MoveStep>1</MoveStep>
+  <ShiftMoveStep>10</ShiftMoveStep>
+  <RotateStep>5</RotateStep>
+  <GridStep>1</GridStep>
+  <Transparency>255</Transparency>
+  <LineWidth>1</LineWidth>
+  <ShowLabels>true</ShowLabels>
+  <LineMode>1</LineMode>
+  <LineColorA>255</LineColorA>
+  <LineColorR>103</LineColorR>
+  <LineColorG>78</LineColorG>
+  <LineColorB>169</LineColorB>
+</RulerSettings>
